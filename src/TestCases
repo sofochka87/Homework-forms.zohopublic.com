@@ -1,0 +1,27 @@
+Test CasesTest Case 1:
+Amazon search results
+1.Go to amazon.com
+2.Enter searchterm Selenium book
+3.Verify that a resultwith “Selenium Testing Tools Cookbook”is displayed anywhere in the results
+4.Enter search term Java OCA book
+5.Verify that a resultwith “Selenium Testing Tools Cookbook”is not displayed anywhere in the results
+
+Test Case 2: Amazon search results
+1.Go to amazon.com
+2.Enter searchtermSelenium book
+3.Verify all results contain the work “selenium”case insensitive
+
+Test Case 3:
+ Amazon search results1.Go to amazon.com
+ 2.Enter searchtermSelenium book
+ 3.Verify prime check box is not selected
+ 4.Check the prime checkbox5.Verify that top 
+ 5 results are still sameTest Case
+ 
+  4: Etsy shop locations1.Go to etsy.com
+  2.Enter anysearchterm
+  3.Verify Shop location: Anywhere is checked
+  4.Verify Shop location: United States is not checked
+  5.Click on Shop location: United States
+  6.Verify Shop location: Anywhere is checked
+  7.Verify Shop location: United States is not checked
